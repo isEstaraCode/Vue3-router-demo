@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+Vue3路由演示
+项目描述
+基于 Vue3、JS 框架的 " Vue3路由演示项目 "，通过 Vue 组件实现页面自由替换。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+一、提前安装好 nodejs 与 yarn,下载项目后在项目主目录下运行 yarn 拉取依赖包。
+安装完依赖包之后然后使用 vue-cli 或者直接使用命令npm run serve，就可以启动项目，
+二、yarn安装依赖：
+yarn
+三、启动开发服务器命令：
+yarn dev
+yarn路由安装命令：
+yarn add vue-router@4

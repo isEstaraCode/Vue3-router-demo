@@ -1,4 +1,6 @@
 Vue3路由演示
+# Vue3路由演示
+
 项目描述
 基于 Vue3、JS 框架的 " Vue3路由演示项目 "，通过 Vue 组件实现页面自由替换。
 
@@ -9,4 +11,5 @@ yarn
 三、启动开发服务器命令：
 yarn dev
 yarn路由安装命令：
+yarn add vue-router@4
 yarn add vue-router@4
